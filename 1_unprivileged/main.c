@@ -7,6 +7,7 @@
 
 void user_task(void);
 
+
 int main(void)
 {
 	extern uint32_t _msp_init;
